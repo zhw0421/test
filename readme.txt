@@ -9,9 +9,9 @@
 \pard\pardeftab720\sl360\partightenfactor0
 
 \f0\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Git 
-\f1\b \cf4 \strokec4 is
-\f0\b0 \cf2 \strokec2  a version control system.\
 Git 
-\f1\b \cf4 \strokec4 is
-\f0\b0 \cf2 \strokec2  free software.}
+\f1\b \cf4 is
+\f0\b0 \cf2  a version control system.\
+Git 
+\f1\b \cf4 is
+\f0\b0 \cf2  free software.asdsadasdasd}
